@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1665345794 source:c:\users\essola\desktop\mes code en c\pilestatique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilestatique.h"
+
+1665338097 c:\users\essola\desktop\mes code en c\pilestatique\pilestatique.h
+
+1665346169 source:c:\users\essola\desktop\mes code en c\pilestatique\pilestatique.c
+	<stdio.h>
+	<stdlib.h>
+
+1666269297 source:c:\users\essola\desktop\devoir inf\pile et file statique\pilestatique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilestatique.h"
+
+1666270906 c:\users\essola\desktop\devoir inf\pile et file statique\pilestatique\pilestatique.h
+
+1666269306 source:c:\users\essola\desktop\devoir inf\pile et file statique\pilestatique\pilestatique.c
+	<stdio.h>
+	<stdlib.h>
+

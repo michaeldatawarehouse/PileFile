@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1665262212 source:c:\users\essola\desktop\mes code en c\filedynamique\filedynamique.c
+	<stdio.h>
+	<stdlib.h>
+	"filedynamique.h"
+
+1665261874 c:\users\essola\desktop\mes code en c\filedynamique\filedynamique.h
+
+1665262255 source:c:\users\essola\desktop\mes code en c\filedynamique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filedynamique.h"
+
+1665262301 source:c:\users\essola\desktop\devoir inf\pile et file dynamique\filedynamique\filedynamique.c
+	<stdio.h>
+	<stdlib.h>
+	"filedynamique.h"
+
+1665261874 c:\users\essola\desktop\devoir inf\pile et file dynamique\filedynamique\filedynamique.h
+
+1665262255 source:c:\users\essola\desktop\devoir inf\pile et file dynamique\filedynamique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filedynamique.h"
+

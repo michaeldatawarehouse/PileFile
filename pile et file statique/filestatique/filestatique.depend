@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1665517513 source:c:\users\essola\desktop\mes code en c\filestatique\filestatique.c
+	<stdio.h>
+	<stdlib.h>
+	"filestatique.h"
+
+1665513356 c:\users\essola\desktop\mes code en c\filestatique\filestatique.h
+
+1665517430 source:c:\users\essola\desktop\mes code en c\filestatique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filestatique.h"
+

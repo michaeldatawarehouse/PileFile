@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1665237618 source:c:\users\essola\desktop\mes code en c\piledynamique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilesdynamique.h"
+
+1665237499 c:\users\essola\desktop\mes code en c\piledynamique\pilesdynamique.h
+
+1665237832 source:c:\users\essola\desktop\mes code en c\piledynamique\pilesdynamique.c
+	<stdio.h>
+	<stdlib.h>
+
+1665237832 source:c:\users\essola\desktop\devoir inf\pile et file dynamique\piledynamique\pilesdynamique.c
+	<stdio.h>
+	<stdlib.h>
+
